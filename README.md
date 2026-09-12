@@ -1,4 +1,4 @@
-# Vibe Coding Demo — Claude + Google Cloud
+# Vibe Coding — Claude + Google Cloud v0.1
 
 A workspace for vibecoding initial documents across the software development lifecycle.
 
